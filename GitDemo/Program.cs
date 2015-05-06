@@ -16,6 +16,7 @@ namespace GitDemo
             Console.WriteLine("welcome");
             Console.WriteLine("OK");
             Console.WriteLine("456");
+            Console.WriteLine("123");
         }
     }
 }
