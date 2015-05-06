@@ -15,6 +15,8 @@ namespace GitDemo
             Console.WriteLine("hello yang eric liu ,I am eric flex");
             Console.WriteLine("welcome");
             Console.WriteLine("OK");
+            Console.WriteLine("456");
+            Console.WriteLine("123");
         }
     }
 }
