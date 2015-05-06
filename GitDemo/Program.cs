@@ -20,7 +20,9 @@ namespace GitDemo
             Console.WriteLine("aaa");
             Console.WriteLine("789");
             Console.WriteLine("777");
-            Console.WriteLine("0JQKA");
+            Console.WriteLine("2345678");
+            Console.WriteLine("8910JQKA");
+
         }
     }
 }
