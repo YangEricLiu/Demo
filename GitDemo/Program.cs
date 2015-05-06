@@ -12,7 +12,7 @@ namespace GitDemo
         {
             Console.WriteLine("hello world");
             Console.WriteLine("hello yangeric liu");
-            Console.WriteLine("hello yang eric liu a");
+            Console.WriteLine("hello yang eric liu ,I am eric flex");
 
         }
     }
